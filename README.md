@@ -55,6 +55,6 @@
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=ticchien1&style=plastic&label=Views" />
-<img src="https://badges.pufler.dev/visits/ticchien1/ProCoderMew?color=black&logo=github" />
+<img src="https://badges.pufler.dev/visits/ticchien1/ticchien1?color=black&logo=github" />
 </p>
 1

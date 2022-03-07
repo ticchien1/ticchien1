@@ -43,7 +43,7 @@
   <a href="https://www.facebook.com/ticchien"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
   <br>
   <br>
-  <a href="https://www.instagram.com/huongggggg/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/huonggggggg/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ticchien/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <p/>
 <br>
@@ -54,7 +54,7 @@
 
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=ProCoderMew&style=plastic&label=Views" />
-<img src="https://badges.pufler.dev/visits/ProCoderMew/ProCoderMew?color=black&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=ticchien1&style=plastic&label=Views" />
+<img src="https://badges.pufler.dev/visits/ticchien1/ProCoderMew?color=black&logo=github" />
 </p>
 1

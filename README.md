@@ -1,7 +1,6 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+i'm+Ticchien">
-  </a>
+  
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+i%27m+Ticchien!&center=true&size=30">
 </h1>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81c28761200553.5a66fd28bb44b.gif" style="width:400px"></img>
 

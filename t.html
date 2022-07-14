@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+</head>
+<body>
+  <script>
+     $.get('https://www.cloudflare.com/cdn-cgi/trace', function(data) {
+
+data = data.trim().split('\n').reduce(function(obj, pair) {
+pair = pair.split('=');
+return obj[pair[0]] = pair[1], obj;
+}, {});
+
+            
+});
+
+console.log(obj);
+  </script>
+</body>
+</html>

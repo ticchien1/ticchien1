@@ -152,6 +152,7 @@ body {
 }
 
 .relative {
+    background-image: url('https://telegram.org/img/tgme/pattern.svg');
     position: relative
 }
 

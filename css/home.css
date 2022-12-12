@@ -153,7 +153,8 @@ body {
 
 .relative {
     background-image: url('https://telegram.org/img/tgme/pattern.svg');
-    position: relative
+    position: relative;
+        padding: 9px;
 }
 
 .link-each-image {
